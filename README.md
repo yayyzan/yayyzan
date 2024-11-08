@@ -1,4 +1,4 @@
-## Hi there, Im Yazan Ayyoub 👋
+## Hi there 👋
 
 <!--
 **yayyzan/yayyzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
