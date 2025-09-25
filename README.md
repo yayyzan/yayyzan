@@ -27,4 +27,4 @@
 
 ---
 
-✨ Thanks for visiting my profile, feel free to explore my projects!  
+✨ Thanks for visiting my profile, feel free to explore my work!  
